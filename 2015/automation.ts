@@ -19,7 +19,8 @@ dotenv.config({ path: path.join(__dirname, "..", ".env") });
 
     fs.writeFileSync(path.join(dir, "input.txt"), "");
     fs.writeFileSync(path.join(dir, "question.txt"), "");
-    fs.writeFileSync(path.join(dir, "sol.ts"), "");
+    fs.writeFileSync(path.join(dir, "sol1.ts"), "");
+    fs.writeFileSync(path.join(dir, "sol2.ts"), "");
     console.log("Files created.");
   } catch (err) {
     console.error("File creation error:", err);
