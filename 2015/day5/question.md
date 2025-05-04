@@ -1,4 +1,5 @@
---- Day 5: Doesn't He Have Intern-Elves For This? ---Santa needs help figuring out which strings in his text file are naughty or nice.
+--- Day 5: Doesn't He Have Intern-Elves For This? ---
+Santa needs help figuring out which strings in his text file are naughty or nice.
 A nice string is one with all of the following properties:
 
 It contains at least three vowels (aeiou only), like aei, xazegov, or aeiouaeiouaeiou.
@@ -15,7 +16,9 @@ dvszwmarrgswjxmb is naughty because it contains only one vowel.
 
 How many strings are nice?
 
---- Part Two ---
+---
+
+Part Two ---
 Realizing the error of his ways, Santa has switched to a better model of determining whether a string is naughty or nice. None of the old rules apply, as they are all clearly ridiculous.
 
 Now, a nice string is one with all of the following properties:
